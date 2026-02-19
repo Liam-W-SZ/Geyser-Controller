@@ -1,0 +1,20 @@
+{
+    "M-Aux#1": {
+        "Addr": 0,
+        "Type": "Geyser",
+        "Name": "Main Geyser",
+        "Serial Number": "SZ-XXX-XXXXXXX",
+        "Slots": [
+            [
+                159,
+                "04h30",
+                "07h00"
+            ],
+            [
+                159,
+                "16h30",
+                "18h30"
+            ]
+        ]
+    }
+}
